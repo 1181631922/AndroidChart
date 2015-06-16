@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidChart</string>
+    <string name="bar">柱状图</string>
+    <string name="pie">饼图</string>
+</resources>
